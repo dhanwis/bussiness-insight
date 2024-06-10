@@ -1,0 +1,43 @@
+.custom-phone {
+    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    color: #0c3b66;
+}
+
+.social-icon-mine{
+    margin-right: 20px;
+}
+
+.social-icon-mine i {
+    padding-right: 18px;
+    font-size: 20px;
+}
+
+
+@media  (max-width: 667px){
+    .custom-phone{
+        display: none;
+    }
+    .hide-on-desktop-add-icon{
+        display: none;
+    }
+    .social-icon-mine{
+        display: none;
+    }
+    
+}
+
+
+.custom-container-two {
+    margin-right: 240px;
+    margin-left: 58px;
+}
+
+
+@media (max-width: 1179px){
+    .phone-icon {
+        display: none;
+    }
+
+}
