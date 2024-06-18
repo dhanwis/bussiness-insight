@@ -1724,7 +1724,7 @@ textarea {
 }
 .tgmenu__action ul li a {
   color: var(--tg-theme-secondary);
-  font-size: 14px;
+  font-size: 35px;
 }
 .tgmenu__action ul li:first-child {
   margin-left: 0;
@@ -12175,7 +12175,7 @@ blockquote p {
   color: var(--tg-color-white-default);
 }
 .footer__top-three .footer-link-list .list-wrap li a {
-  color: var(--tg-color-gray-2);
+  color:white;
 }
 .footer__top-three .footer-info-list .list-wrap li .icon, .footer__top-three .footer-info-list .list-wrap li p, .footer__top-three .footer-info-list .list-wrap li a {
   color: var(--tg-color-gray-2);

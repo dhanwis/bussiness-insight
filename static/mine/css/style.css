@@ -15,7 +15,7 @@
 }
 
 
-@media  (max-width: 667px){
+@media  (max-width: 1200px){
     .custom-phone{
         display: none;
     }
