@@ -14624,3 +14624,8 @@ blockquote p {
     right: -15px;
   }
 }/*# sourceMappingURL=main.css.map */
+
+.services__item-top-title .title,
+.services__top-title .title {
+    text-align: center;
+}
