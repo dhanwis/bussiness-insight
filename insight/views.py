@@ -23,7 +23,16 @@ def about(request):
 def services(request):
     return render(request, 'services.html')
 
+def blog(request):
+    return render(request, 'blog.html')
+
 def contact(request):
     return render(request, 'contact.html')
+
+def privacy(request):
+    return render(request, 'privacy.html')
+
+def terms_condition(request):
+    return render(request, 'condition.html')
 
 
